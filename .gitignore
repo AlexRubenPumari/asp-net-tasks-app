@@ -1,0 +1,54 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.apk
+*.apc
+*.appx
+*.appxbundle
+*.msi
+*.msp
+*.mst
+*.ts
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Resharper/JetBrains files
+_ReSharper.*/
+*.resharper
+*.idea/
+
+# SQL Server temporary files
+*.mdf
+*.ldf
+*.sdf
+*.dbmdl
+
+# Test Results
+TestResults/
+
+# Visual Studio Code cache (if you use VS Code for Git ops)
+.vscode/
+
+# Web Forms specific
+App_Data/
+App_Licenses.licx
+
+# Other common temporary files
+*.tmp
+*.log
+*.bak
+*~
